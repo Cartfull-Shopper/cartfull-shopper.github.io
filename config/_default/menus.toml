@@ -1,0 +1,41 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Pricing"
+url = "pricing/"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 3
+
+# footer menu left
+[[footer_left]]
+name = "Quick Start"
+url = "#"
+
+[[footer_left]]
+name = "Pricing"
+url = "pricing/"
+
+[[footer_left]]
+name = "Features"
+url = "#"
+
+# footer menu right
+[[footer_middle]]
+name = "Install Guide"
+url = "install-guide/"
+
+[[footer_middle]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[footer_middle]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
