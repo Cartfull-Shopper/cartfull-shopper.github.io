@@ -14,6 +14,11 @@ name = "Contact"
 url = "contact/"
 weight = 3
 
+[[main]]
+name = "Demo"
+url = "demo/"
+weight = 4
+
 # footer menu left
 [[footer_left]]
 name = "Quick Start"
@@ -26,6 +31,10 @@ url = "pricing/"
 [[footer_left]]
 name = "Features"
 url = "#"
+
+[[footer_left]]
+name = "Demo"
+url = "/demo"
 
 # footer menu right
 [[footer_middle]]
