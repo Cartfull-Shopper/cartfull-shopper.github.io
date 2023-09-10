@@ -8,7 +8,7 @@ draft: false
 
 ## Install Cartfull Shopper
 
-Only store owners can install Cartfull Shopper on their BigCommerce store.
+Only BigCommerce store owners can install Cartfull Shopper on their BigCommerce store.
 They may do so via the normal means of installing an app from the [Marketplace](https://www.bigcommerce.com/apps/).
 
 Or, install from [here](https://login.bigcommerce.com/app/hb2vd4lt2jx075qbvyhfcwdsqjdivim/install).

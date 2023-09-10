@@ -3,8 +3,7 @@
 banner:
   title : "Stay up to date with your active shoppers"
   image : "images/banner-art.svg"
-  content : "With Cartfull Shopper you can effectively manage the carts in your store
-  to help drive orders up for your business."
+  content : "Cartfull Shopper works with BigCommerce stores. With this new tool, you can effectively manage the carts in your store to help drive orders up for your business."
   button:
     enable : true
     label : "Contact Us"
@@ -62,7 +61,7 @@ service:
       content : "Sometimes shoppers need a little extra help in making a purchase in your
       store. If they've abandoned their cart, you'll get notified and be able to view that
       cart. Once you know what they were shopping for, you can reach out with a
-      specialized email to help you drive the sale."
+      specialized email to help you make the sale."
 
 
 ##################### Call to action #####################
@@ -70,7 +69,7 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Get a 1 week free trial to test the tool yourself."
+  content : "Get a 1 week free trial for your BigCommerce store to test the tool yourself."
   button:
     enable : true
     label : "Contact Us"
