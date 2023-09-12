@@ -42,6 +42,10 @@ name = "Install Guide"
 url = "install-guide/"
 
 [[footer_middle]]
+name = "User Guide"
+url = "user-guide/"
+
+[[footer_middle]]
 name = "Privacy Policy"
 url = "privacy-policy/"
 
