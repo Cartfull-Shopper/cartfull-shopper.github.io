@@ -1,32 +1,23 @@
 ---
 title: "Pricing"
-subtitle: ""
-description: "This is meta description"
+subtitle: "One Simple Plan"
+description: "Pricing for monitoring carts on BigCommerce"
 draft: false
-    
-basic:
-  name : "Per User"
-  price: "$10"
-  price_per : "month/user"
-  info : "Best for small number of administrative users"
-  services:
-  - "Includes all features"
-  button:
-    enable : true
-    label : "Get started for free"
-    link : "#"
 
-business:
-  name : "Business Plan"
-  price: "$50"
-  price_per : "month"
-  info : "Best for 6+ adminitrative users"
+professional:
+  name : "Professional"
+  price: "$10"
+  price_per : "month/store"
+  info : ""
   services:
-  - "Limit 10 users"
-  - "Includes all features"
+  - "Add users for your store for free"
+  - "All features included"
+  - "View active carts"
+  - "Modify active carts"
+  - "Review abandoned carts"
   button:
     enable : true
-    label : "Get started for free"
+    label : "1 week free trial"
     link : "#"
 
 call_to_action:
