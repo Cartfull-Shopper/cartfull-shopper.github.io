@@ -1,4 +1,4 @@
-baseURL = 'http://cartfull-shopper.com/'
+baseURL = 'http://www.cartfull-shopper.com/'
 languageCode = 'en-us'
 title = 'Cartfull Shopper'
 theme = "bigspring"
