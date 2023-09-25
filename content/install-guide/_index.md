@@ -6,18 +6,20 @@ description: "Installation Guide"
 draft: false
 ---
 
-## Install Cartfull Shopper
+## How to Get Started
 
-Only BigCommerce store owners can install Cartfull Shopper on their BigCommerce store.
-They may do so via the normal means of installing an app from the [Marketplace](https://www.bigcommerce.com/apps/).
+{{< install_button >}}
 
-Or, install from [here](https://login.bigcommerce.com/app/hb2vd4lt2jx075qbvyhfcwdsqjdivim/install).
+Only BigCommerce store owners can install Cartfull Shopper on their store.
+
+They may also do so via the normal means of installing an app from the {{< marketplace
+>}}.
 
 All new stores will receive a 1 week free trial to use the app.
 
 This app supports multi-users, so you can provide this app to other users in
-your store to help you manage your active carts. They'll be able to see it 
-in the list of "My Apps" and can load it from there.
+your store to help you manage your active carts. As a store owner, you can grant them
+permission to use the app and they can load it from there. 
 
 #### Important
 
