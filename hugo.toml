@@ -2,3 +2,4 @@ baseURL = 'http://www.cartfull-shopper.com/'
 languageCode = 'en-us'
 title = 'Cartfull Shopper'
 theme = "bigspring"
+googleAnalytics = "G-T83B5F9WV3"
