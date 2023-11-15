@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Stay up to date with your active shoppers"
+  title : "Monitor and manage shoppers in your store!"
   image : "images/banner-art.svg"
-  content : "Cartfull Shopper works with BigCommerce stores. With this new tool, you can effectively manage the carts in your store to help drive orders up for your business."
+  content : "Cartfull Shopper works with BigCommerce stores. With this new tool, you can effectively manage the carts in your store to help convert carts into orders for your business."
   button:
     enable : true
     label : "Contact Us"
@@ -22,11 +22,16 @@ feature:
     # feature item loop
     - name : "Real-time Cart Notifications"
       icon : "fas fa-envelope-open-text"
-      content : "Stay up to date on new, updated, deleted or abandoned carts."
+      content : "Stay up to date on new, converted or abandoned carts."
       
     # feature item loop
     - name : "View Abandoned Carts"
       icon : "fas fa-cart-plus"
+      content : "View carts that were abandoned so you can follow up and close the sale."
+
+    # feature item loop
+    - name : "Gain insights on your Carts"
+      icon : "fas fa-chart-bar"
       content : "View carts that were abandoned so you can follow up and close the sale."
 
 
@@ -62,6 +67,14 @@ service:
       store. If they've abandoned their cart, you'll get notified and be able to view that
       cart. Once you know what they were shopping for, you can reach out with a
       specialized email to help you make the sale."
+
+    # service item loop
+    - title : "Gain Insights"
+      images:
+      - "images/big-commerce-monitor-carts-insights.png"
+      content : "Track the overall health of your store and answer important questions.
+      Are too many active carts being abandoned? What products are your most abandoned?
+      What's the average age of your carts and can you get that down?"
 
 
 ##################### Call to action #####################

@@ -6,4 +6,4 @@ description: "Installation Guide"
 draft: false
 ---
 
-{{< youtube wSjEDVTNW0k >}}
+{{< youtube SG71fALQaDs >}}
