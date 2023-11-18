@@ -1,6 +1,7 @@
 ---
 title: "Potential Customers"
 date: 2023-10-20T06:57:40-07:00
+blogCategoryType: "blah"
 draft: true
 ---
 

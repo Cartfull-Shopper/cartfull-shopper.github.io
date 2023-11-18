@@ -19,6 +19,11 @@ name = "Demo"
 url = "demo/"
 weight = 4
 
+[[main]]
+name = "Blog"
+url = "post/"
+weight = 5
+
 # footer menu left
 [[footer_left]]
 name = "Quick Start"
