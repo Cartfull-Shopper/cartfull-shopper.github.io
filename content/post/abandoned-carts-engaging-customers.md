@@ -4,6 +4,8 @@ date: 2023-10-20T06:57:40-07:00
 draft: false
 ---
 
+![Monitor Abandoned Carts in BigCommerce Store](/images/posts/2/bigcommerce-monitor-cart-tuscany.jpeg)
+
 In the world of e-commerce, one of the best opportunities lies with customers who almost
 made a purchase. These individuals have expressed a genuine interest in your product or
 service, making them prime candidates for conversion. 
@@ -54,7 +56,7 @@ If time is an issue, you can craft a message around a specific product instead o
 specific customer. With Cartfull Shopper, you can search abandoned carts by product and
 download a list of emails from there.
 
-![Monitor Abandoned Carts in BigCommerce Store](/images/posts/1/monitor-abandoned-carts-bigcommerce.gif)
+![Monitor Abandoned Carts in BigCommerce Store](/images/posts/2/monitor-abandoned-carts-bigcommerce.gif)
 
 #### Simplify the Checkout Process
 

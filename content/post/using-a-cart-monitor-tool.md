@@ -4,6 +4,8 @@ date: 2023-11-17T13:10:11-08:00
 draft: false
 ---
 
+![Monitor Active Carts in BigCommerce Store](/images/posts/1/bigcommerce-monitor-cart-fall-mountain.jpeg)
+
 Use Cartfull Shopper to stay aware of the overall health of your BigCommerce store. Cartfull Shopper
 can help with two kinds of carts (and therefore two kinds of customers):
 1. Active carts
