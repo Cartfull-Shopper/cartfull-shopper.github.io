@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Convert Carts into Purchases!"
-  image : "images/banner-art.svg"
+  image : "images/big-commerce-monitor-carts-banner.jpeg"
   content : "Cartfull Shopper works with BigCommerce stores. With this new tool, you can effectively monitor and manage the carts in your store to help convert carts into purchases for your business."
   button:
     enable : true

@@ -1,4 +1,5 @@
 logo = "images/big-commerce-monitor-carts-logo.png"
+favicon = "images/big-commerce-monitor-carts-favicon.png"
 logo_width = "80px"
 description = "This is meta description"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
