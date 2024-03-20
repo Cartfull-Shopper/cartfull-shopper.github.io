@@ -20,17 +20,22 @@ url = "demo/"
 weight = 4
 
 [[main]]
+name = "Documentation"
+url = "https://docs.cartfull-shopper.com/docs"
+weight = 5
+
+[[main]]
 name = "Blog"
 url = "https://docs.cartfull-shopper.com/blog"
-weight = 5
+weight = 6
 
 [[footer_left]]
 name = "Pricing"
-url = "pricing/"
+url = "/pricing"
 
 [[footer_left]]
-name = "Features"
-url = "#"
+name = "Documentation"
+url = "https://docs.cartfull-shopper.com/docs"
 
 [[footer_left]]
 name = "Demo"
