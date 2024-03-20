@@ -1,24 +1,47 @@
 ---
 title: "Pricing"
-subtitle: "One Simple Plan"
+subtitle: "Three Simple Plans"
 description: "Pricing for monitoring carts on BigCommerce"
 draft: false
 
-professional:
-  name : "Professional"
-  price: "$10"
+basic:
+  name : "Starter"
+  price: "$12"
   price_per : "month/store"
   info : ""
   services:
-  - "Add users for your store for free"
+  - "Add up to 5 users for your store"
   - "All features included"
-  - "View active carts"
-  - "Modify active carts"
-  - "Review abandoned carts"
+  - "Retain Cart data for up to 6 months"
   button:
     enable : true
     label : "1 week free trial"
-    link : "#"
+    link : "https://docs.cartfull-shopper.com/docs/guides/install-cartfull-shopper/"
+professional:
+  name: "Standard"
+  price: "$18"
+  price_per: "month/store"
+  services:
+  - "Add up to 10 users for your store"
+  - "All features included"
+  - "Retain Cart data for up to 1 year"
+  button:
+    enable : true
+    label : "1 week free trial"
+    link : "https://docs.cartfull-shopper.com/docs/guides/install-cartfull-shopper/"
+business:
+  name : "Plus"
+  price: "$24"
+  price_per : "month/store"
+  info : ""
+  services:
+  - "Add up to 10 users for your store"
+  - "All features included"
+  - "Retain Cart data for up to 2 years"
+  button:
+    enable : true
+    label : "1 week free trial"
+    link : "https://docs.cartfull-shopper.com/docs/guides/install-cartfull-shopper/"
 
 call_to_action:
   enable : false
