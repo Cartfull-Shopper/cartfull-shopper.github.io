@@ -21,13 +21,8 @@ weight = 4
 
 [[main]]
 name = "Blog"
-url = "post/"
+url = "https://docs.cartfull-shopper.com/blog"
 weight = 5
-
-# footer menu left
-[[footer_left]]
-name = "Quick Start"
-url = "#"
 
 [[footer_left]]
 name = "Pricing"
@@ -44,15 +39,15 @@ url = "/demo"
 # footer menu right
 [[footer_middle]]
 name = "Install Guide"
-url = "install-guide/"
+url = "https://docs.cartfull-shopper.com/docs/guides/install-cartfull-shopper/"
 
 [[footer_middle]]
 name = "User Guide"
-url = "user-guide/"
+url = "https://docs.cartfull-shopper.com/docs"
 
 [[footer_middle]]
 name = "Privacy Policy"
-url = "privacy-policy/"
+url = "https://docs.cartfull-shopper.com/privacy/"
 
 [[footer_middle]]
 name = "Terms & Conditions"
