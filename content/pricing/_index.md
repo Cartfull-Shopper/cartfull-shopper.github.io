@@ -12,7 +12,7 @@ basic:
   services:
   - "Add up to 2 users for your store"
   - "All features included"
-  - "Retain data for up to 100K carts
+  - "Retain data for up to 100K carts"
   button:
     enable : true
     label : "1 week free trial"
@@ -24,7 +24,7 @@ professional:
   services:
   - "Add up to 5 users for your store"
   - "All features included"
-  - "Retain data for up to 250K carts
+  - "Retain data for up to 250K carts"
   button:
     enable : true
     label : "1 week free trial"
@@ -37,7 +37,7 @@ business:
   services:
   - "Add up to 8 users for your store"
   - "All features included"
-  - "Retain data for up to 500K carts
+  - "Retain data for up to 500K carts"
   button:
     enable : true
     label : "1 week free trial"
