@@ -10,9 +10,9 @@ basic:
   price_per : "month/store"
   info : ""
   services:
-  - "Add up to 5 users for your store"
+  - "Add up to 2 users for your store"
   - "All features included"
-  - "Retain Cart data for up to 6 months"
+  - "Retain data for up to 100K carts
   button:
     enable : true
     label : "1 week free trial"
@@ -22,9 +22,9 @@ professional:
   price: "$18"
   price_per: "month/store"
   services:
-  - "Add up to 10 users for your store"
+  - "Add up to 5 users for your store"
   - "All features included"
-  - "Retain Cart data for up to 1 year"
+  - "Retain data for up to 250K carts
   button:
     enable : true
     label : "1 week free trial"
@@ -35,9 +35,9 @@ business:
   price_per : "month/store"
   info : ""
   services:
-  - "Add up to 10 users for your store"
+  - "Add up to 8 users for your store"
   - "All features included"
-  - "Retain Cart data for up to 2 years"
+  - "Retain data for up to 500K carts
   button:
     enable : true
     label : "1 week free trial"
