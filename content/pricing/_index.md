@@ -11,8 +11,9 @@ basic:
   info : ""
   services:
   - "Add up to 2 users for your store"
-  - "All features included"
+  - "Maximum of 10 notifications per user"
   - "Retain data for up to 100K carts"
+  - "All features included"
   button:
     enable : true
     label : "1 week free trial"
@@ -23,8 +24,9 @@ professional:
   price_per: "month/store"
   services:
   - "Add up to 5 users for your store"
-  - "All features included"
+  - "Maximum of 20 notifications per user"
   - "Retain data for up to 250K carts"
+  - "All features included"
   button:
     enable : true
     label : "1 week free trial"
@@ -36,8 +38,9 @@ business:
   info : ""
   services:
   - "Add up to 8 users for your store"
-  - "All features included"
+  - "Maximum of 50 notifications per user"
   - "Retain data for up to 500K carts"
+  - "All features included"
   button:
     enable : true
     label : "1 week free trial"
